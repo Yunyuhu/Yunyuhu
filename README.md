@@ -27,9 +27,9 @@ A 2×2 between-subjects study with 60 participants on whether humans and AI can 
 
 2024・InnoFest@ICI 2024 展出 Exhibited・[程式 Code](https://github.com/Yunyuhu/WallGuard)・[專案頁 Case study](https://yunyu-web-digital-profile.vercel.app/projects/wallguard)
 
-拍一張牆面照片，用 U-Net 影像分割標出牆面損傷的位置與範圍，再串接 ChatGPT API 產出白話的處理建議。我擔任 PM 並負責資訊開發。
+拍一張牆面照片，先以 ResNet50V2 判斷是裂縫、壁癌還是鏽蝕，再以 U-Net 影像分割標出損傷範圍並估計面積，最後串接 ChatGPT API 產出白話的處理建議。我擔任 PM 並負責資訊開發。
 
-Take a photo of a wall: U-Net image segmentation marks where the damage is and how far it spreads, and the ChatGPT API turns the result into plain-language advice. I was the PM and worked on development.
+Take a photo of a wall: ResNet50V2 identifies the damage type, U-Net image segmentation marks where it is and how far it spreads, and the ChatGPT API turns the result into plain-language advice. I was the PM and worked on development.
 
 ### 🧤 FlexiTouch：柔性材質互動控制器
 
@@ -60,10 +60,15 @@ An industry–academia capstone project with more than 100 real users. I designe
 | Hungry Frog（2023）<br>Unity game | 設計關卡互動機制，開發關卡與關卡之間的連動<br>Designed the level mechanics, built levels and the transitions between them | [程式 Code](https://github.com/Nerdvana333/GDTeamProject)・[專案頁 Page](https://yunyu-web-digital-profile.vercel.app/projects/hungry-frog) |
 | 醫療好評網（2022）<br>Medical review site prototype | PO，以 Scrum 統籌進度並帶組員學程式<br>Product owner: ran the project with Scrum and taught teammates to code | [程式 Code](https://github.com/Medical-Services-Team/BoostrapTest)・[專案頁 Page](https://yunyu-web-digital-profile.vercel.app/projects/medical-review-platform) |
 
-## 📓 練習 Practice
+## 🧪 AI 互動 Demo AI Mini Projects
 
-[AI-Practice-2024](https://github.com/Yunyuhu/AI-Practice-2024)：碩一的 AI 課堂作業與 API 串接練習，包含神經網路、遷移學習、ChatGPT API、人臉比對與 LINE Bot。其中的屋況辨識作業後來發展成 WallGuard。<br>
-Coursework and API practice from my first year of grad school: neural networks, transfer learning, the ChatGPT API, face matching and a LINE Bot. The house-damage assignment later grew into WallGuard.
+三個可以直接在瀏覽器操作的小專案 Three small projects you can try in the browser:
+
+| Demo | 可以做什麼 What you can do | 程式 Code |
+|---|---|---|
+| [手寫數字辨識 Handwriting Recognition](https://yunyuhu.github.io/AI-Vision-Demos/) | 手寫一個數字，看模型對十個答案的分數<br>Draw a digit and see the model's score for each class | [AI-Vision-Demos](https://github.com/Yunyuhu/AI-Vision-Demos) |
+| [對話與文字整理 Dialogue & Summarizing](https://yunyuhu.github.io/AI-Dialogue-Demo/) | 延續上下文的角色對話，或把文字先擷取關鍵字再整理成文<br>Multi-turn role chat, or turn text into keywords and then a summary | [AI-Dialogue-Demo](https://github.com/Yunyuhu/AI-Dialogue-Demo) |
+| [氣象助理 Weather Assistant](https://yunyuhu.github.io/Weather-Assistant/) | 讀取中央氣象署的縣市預報，再讓 AI 依同一份資料回答問題<br>Fetch official county forecasts and ask AI questions grounded in that data | [Weather-Assistant](https://github.com/Yunyuhu/Weather-Assistant) |
 
 ## 🛠️ 技能 Skills
 
