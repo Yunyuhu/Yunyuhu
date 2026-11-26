@@ -25,7 +25,7 @@ A 2×2 between-subjects study with 60 participants on whether humans and AI can 
 
 *AI Wall-Hazard Detection*
 
-2024・InnoFest@ICI 2024 展出 Exhibited・[專案頁 Case study](https://yunyu-web-digital-profile.vercel.app/projects/wallguard)
+2024・InnoFest@ICI 2024 展出 Exhibited・[程式 Code](https://github.com/Yunyuhu/WallGuard)・[專案頁 Case study](https://yunyu-web-digital-profile.vercel.app/projects/wallguard)
 
 拍一張牆面照片，用 U-Net 影像分割標出牆面損傷的位置與範圍，再串接 ChatGPT API 產出白話的處理建議。我擔任 PM 並負責資訊開發。
 
@@ -59,6 +59,11 @@ An industry–academia capstone project with more than 100 real users. I designe
 | Tears of Ancestors（2023）<br>Unity 2D game | 專案管理與企劃，開發地下探索玩法<br>Project management and planning; built the underground exploration mode | [程式 Code](https://github.com/Andy0223/Unity_Final)・[專案頁 Page](https://yunyu-web-digital-profile.vercel.app/projects/tears-of-ancestors) |
 | Hungry Frog（2023）<br>Unity game | 設計關卡互動機制，開發關卡與關卡之間的連動<br>Designed the level mechanics, built levels and the transitions between them | [程式 Code](https://github.com/Nerdvana333/GDTeamProject)・[專案頁 Page](https://yunyu-web-digital-profile.vercel.app/projects/hungry-frog) |
 | 醫療好評網（2022）<br>Medical review site prototype | PO，以 Scrum 統籌進度並帶組員學程式<br>Product owner: ran the project with Scrum and taught teammates to code | [程式 Code](https://github.com/Medical-Services-Team/BoostrapTest)・[專案頁 Page](https://yunyu-web-digital-profile.vercel.app/projects/medical-review-platform) |
+
+## 📓 練習 Practice
+
+[AI-Practice-2024](https://github.com/Yunyuhu/AI-Practice-2024)：碩一的 AI 課堂作業與 API 串接練習，包含神經網路、遷移學習、ChatGPT API、人臉比對與 LINE Bot。其中的屋況辨識作業後來發展成 WallGuard。<br>
+Coursework and API practice from my first year of grad school: neural networks, transfer learning, the ChatGPT API, face matching and a LINE Bot. The house-damage assignment later grew into WallGuard.
 
 ## 🛠️ 技能 Skills
 
