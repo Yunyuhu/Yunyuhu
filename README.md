@@ -45,7 +45,7 @@ A soft controller that senses both pressing and stretching and turns touch into 
 
 *Webinar-based Digital Resume Platform*
 
-2021–2023・資訊應用服務創新競賽 IPv4 組第一名 1st Place, IPv4 Track・[專案頁 Case study](https://yunyu-web-digital-profile.vercel.app/projects/deeplink)
+2021–2023・資訊應用服務創新競賽 IPv4 組第一名 1st Place, IPv4 Track・[網站存檔 Archived site](https://web.archive.org/web/20250327225514/https://deeplink.tw/)・[專案頁 Case study](https://yunyu-web-digital-profile.vercel.app/projects/deeplink)
 
 產學合作畢業專題，平台累積超過 100 位真實使用者。我負責 UI/UX 與 React 開發，訂定驗收流程，上線前以 Firebase Hosting 測試，並重構、模組化程式。
 
@@ -58,7 +58,7 @@ An industry–academia capstone project with more than 100 real users. I designe
 | 菸酒生馬拉松樂園（2025）<br>DizzyLand, a 12-person web game | 開發串燒小遊戲，串接 12 款小遊戲與樂園地圖<br>Built the skewer mini-game and linked all 12 mini-games to the park map | [遊玩 Play](https://web-finalproject-group2.vercel.app)・[程式 Code](https://github.com/hsuchingchun/web-finalproject)・[專案頁 Page](https://yunyu-web-digital-profile.vercel.app/projects/dizzyland) |
 | Tears of Ancestors（2023）<br>Unity 2D game | 專案管理與企劃，開發地下探索玩法<br>Project management and planning; built the underground exploration mode | [程式 Code](https://github.com/Andy0223/Unity_Final)・[專案頁 Page](https://yunyu-web-digital-profile.vercel.app/projects/tears-of-ancestors) |
 | Hungry Frog（2023）<br>Unity game | 設計關卡互動機制，開發關卡與關卡之間的連動<br>Designed the level mechanics, built levels and the transitions between them | [程式 Code](https://github.com/Nerdvana333/GDTeamProject)・[專案頁 Page](https://yunyu-web-digital-profile.vercel.app/projects/hungry-frog) |
-| 醫療好評網（2022）<br>Medical review site prototype | PO，以 Scrum 統籌進度並帶組員學程式<br>Product owner: ran the project with Scrum and taught teammates to code | [程式 Code](https://github.com/Medical-Services-Team/BoostrapTest)・[專案頁 Page](https://yunyu-web-digital-profile.vercel.app/projects/medical-review-platform) |
+| 醫療好評網（2022）<br>Medical review site prototype | PO，以 Scrum 統籌進度並帶組員學程式<br>Product owner: ran the project with Scrum and taught teammates to code | [專案頁 Page](https://yunyu-web-digital-profile.vercel.app/projects/medical-review-platform) |
 
 ## 🧪 AI 互動 Demo AI Mini Projects
 
