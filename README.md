@@ -45,7 +45,7 @@ A soft controller that senses both pressing and stretching and turns touch into 
 
 *Webinar-based Digital Resume Platform*
 
-2021–2023・資訊應用服務創新競賽 IPv4 組第一名 1st Place, IPv4 Track・[網站存檔 Archived site](https://web.archive.org/web/20250327225514/https://deeplink.tw/)・[專案頁 Case study](https://yunyu-web-digital-profile.vercel.app/projects/deeplink)
+2021–2023・資訊應用服務創新競賽 IPv4 組第一名 1st Place, IPv4 Track・[專案頁 Case study](https://yunyu-web-digital-profile.vercel.app/projects/deeplink)
 
 產學合作畢業專題，平台累積超過 100 位真實使用者。我負責 UI/UX 與 React 開發，訂定驗收流程，上線前以 Firebase Hosting 測試，並重構、模組化程式。
 
